@@ -1,6 +1,6 @@
 # dimasrs.github.io
 This is my simple portfolio test using framework called Boostrap (v4.1). 
-It only takes 2-3 days to make this. <br>
+It only takes 1 day to make this. <br>
 
 For the animation, I used A.O.S Library and GSAP3 Tool.
 
